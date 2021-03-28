@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "portfolio-800ad": {
+      "hosting": {
+        "portfolio": [
+          "portfolio-800ad"
+        ]
+      }
+    }
+  }
+}
